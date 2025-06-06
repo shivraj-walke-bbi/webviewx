@@ -3,8 +3,6 @@ import 'dart:async' show Future;
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:webview_flutter/webview_flutter.dart' as wf;
-import 'package:webviewx/src/utils/html_utils.dart';
-import 'package:webviewx/src/utils/source_type.dart';
 import 'package:webviewx/src/utils/utils.dart';
 
 import 'package:webviewx/src/controller/interface.dart' as i;
